@@ -1,5 +1,5 @@
 public class method_overloading{
-    public void add(int a, int b){
+    public void add(int a, int b){ // In java Method Return type is required
         System.out.println("Sum is" + a+b);
         // return a + b;
     }
