@@ -1,7 +1,7 @@
 public class method_overloading{
-    public void add(int a, int b){ // In java Method Return type is required
+    public int add(int a, int b){ // In java Method Return type is required
         System.out.println("Sum is" + a+b);
-        // return a + b;
+        return a + b;
     }
     public void add(int a, int b, int c){
         System.out.println("Sum is" + a+b+c);
