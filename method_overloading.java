@@ -8,7 +8,6 @@ public class method_overloading{
         System.out.println("Sum is" + a+b+c);
         // return a + b;
     }
-
     public static void main(String[] args) {
         method_overloading obj = new method_overloading();
 
