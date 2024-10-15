@@ -10,7 +10,6 @@ public class method_overloading{
     }
     public static void main(String[] args) {
         method_overloading obj = new method_overloading();
-
         obj.add(2, 4);
         obj.add(4, 7, 9);
     }
